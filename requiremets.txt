@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+pillow
+gtts
+openai
